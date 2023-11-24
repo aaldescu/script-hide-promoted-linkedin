@@ -28,7 +28,7 @@ A Tampermonkey script that runs every 2s and changes the opacity of the job card
 
 
 ## ALTERNATIVE
-Chrome extension that are already tested and popular 
+Chrome extensions that are already tested and popular 
 
 [Hide n' Seek: Hide Promoted Jobs & Companies](https://chromewebstore.google.com/detail/hide-n-seek-hide-promoted/agghbaheofcoecndkbflbnggdjcmiaml)
 
