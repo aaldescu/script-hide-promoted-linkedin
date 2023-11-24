@@ -26,3 +26,10 @@ A Tampermonkey script that runs every 2s and changes the opacity of the job card
 5. The script will run only on pages under /jobs link: https://www.linkedin.com/jobs/*
 ![Results](/assets/03_Example_of_Linkedin_job.jpg)
 
+
+## ALTERNATIVE
+Chrome extension that are already tested and popular 
+
+[Hide n' Seek: Hide Promoted Jobs & Companies](https://chromewebstore.google.com/detail/hide-n-seek-hide-promoted/agghbaheofcoecndkbflbnggdjcmiaml)
+
+[Hide Promoted Jobs](https://chromewebstore.google.com/detail/hide-promoted-jobs/bmilkimafelnhekidknkamkhkbeciijg)
