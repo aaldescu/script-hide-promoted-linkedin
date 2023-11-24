@@ -7,6 +7,6 @@ Linkedin Job Search is flooded with Promoted jobs. I need a way to remove them f
 
 ## SOLUTION
 
-- Install in your Chrome browser the plugin Tampermonkey
+- Install in your Chrome browser the plugin [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Add the content of the script.js or import it into Tampermonkey
 - 
