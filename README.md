@@ -9,7 +9,7 @@ Linkedin Job Search is flooded with Promoted jobs. These jobs appear in search r
 
 My solution Tampermonkey script that runs every 2s and changes the opacity of the job card if the footer text equals "promoted".
 
-![Opacity 0.2 for "Promoted"](/assests/03 Example of Linkedin job.jpg)
+![Opacity 0.2 for "Promoted"](/assets/03_Example_of_Linkedin_job.jpg)
 
 
 ## INSTALATION
