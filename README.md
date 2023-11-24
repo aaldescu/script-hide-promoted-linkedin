@@ -16,8 +16,9 @@ My solution Tampermonkey script that runs every 2s and changes the opacity of th
 - Install in your Chrome browser the plugin [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 - Pin the plugin to make it visibile in the address bar.
 - Then "Create a new Script" and copy paste the content of the file script.js
-![Create new script](/assests/01 create new script.jpg)
+![Create new script](/assests/01_create_new_script.jpg)
 - Add the content of the script.js or import it into Tampermonkey
-![Copy Paste](/assests/02 paste script content.jpg)
+![Copy Paste](/assests/02_paste_script_content.jpg)
 - The script will run only on pages under /jobs link: https://www.linkedin.com/jobs/*
-![Results](/assests/03 Example of Linkedin job)
+![Results](/assests/03_Example_of_Linkedin_job.jpg)
+
