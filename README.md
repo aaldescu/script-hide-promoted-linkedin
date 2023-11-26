@@ -33,3 +33,6 @@ Chrome extensions that are already tested and popular
 [Hide n' Seek: Hide Promoted Jobs & Companies](https://chromewebstore.google.com/detail/hide-n-seek-hide-promoted/agghbaheofcoecndkbflbnggdjcmiaml)
 
 [Hide Promoted Jobs](https://chromewebstore.google.com/detail/hide-promoted-jobs/bmilkimafelnhekidknkamkhkbeciijg)
+
+uBlock filters
+[Git repo with filters](https://gist.github.com/jaydorsey/d728423051fbcb54f1abd53ed3920c9e)
